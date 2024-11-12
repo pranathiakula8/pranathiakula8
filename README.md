@@ -37,7 +37,7 @@ I'm passionate about the intersection of healthcare and technology. Currently, I
 ## 🌐 Let's Connect!
 
 [![Email](https://img.shields.io/badge/Email-pranathiakula.career%40gmail.com-red?logo=gmail&logoColor=white)](mailto:pranathiakula.career@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/pranathiakula)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/pranathiakula2000/)
 
 ---
 
