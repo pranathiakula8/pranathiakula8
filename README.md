@@ -26,13 +26,6 @@ I'm passionate about the intersection of healthcare and technology. Currently, I
 
 ---
 
-## 📝 Projects
-
-- **[Data Analysis Project]()**: Analyzed and visualized data to optimize resource allocation, improving user experience by 25%.
-- **[Heart Disease Data Visualization]()**: Used Tableau to identify patterns and insights in cardiovascular health data.
-- **[SQL Database Optimization]()**: Enhanced database performance, improving query execution time and system responsiveness.
-
----
 
 ## 🌐 Let's Connect!
 
